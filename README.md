@@ -1,6 +1,6 @@
 ## hello!!  ![angel toro](/images/angel-toro.gif)
 
-my name is natalin/nat! i'm a second year mathematics-computer science major minoring in cognitive science. 
+my name is natalin/nat! i'm a second year mathematics-computer science major minoring in cognitive science @ UC San Diego. 
 
 ![flower divider](/images/flower-divider.gif)
 

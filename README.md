@@ -4,7 +4,7 @@ my name is natalin/nat! i'm a second year mathematics-computer science major min
 
 ![flower divider](/images/flower-divider.gif)
 
-i'm currently learning web-development and focusing on my ERSP project, [ASPEN](https://github.com/a2jensen/ASPEN)
+i'm currently learning web-development and focusing on my ERSP project, [ASPEN](https://github.com/a2jensen/ASPEN)\
 i hope to share more projects in the future! ദ്ദി(˵ •̀ ᴗ - ˵ )
 
 <!--

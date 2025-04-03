@@ -4,7 +4,8 @@ my name is natalin/nat! i'm a second year mathematics-computer science major min
 
 ![flower divider](/images/flower-divider.gif)
 
-i'm currently learning web-development and focusing on my ERSP project, [ASPEN](https://github.com/a2jensen/ASPEN), i hope to share more projects in the future! ദ്ദി(˵ •̀ ᴗ - ˵ )
+i'm currently learning web-development and focusing on my ERSP project, [ASPEN](https://github.com/a2jensen/ASPEN)
+i hope to share more projects in the future! ദ്ദി(˵ •̀ ᴗ - ˵ )
 
 <!--
 **ndpya/ndpya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
